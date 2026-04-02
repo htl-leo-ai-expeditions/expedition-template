@@ -11,6 +11,6 @@
 - [ ] Save useful artifacts (code, prompts, screenshots)
 
 ## After
-- [ ] Review the logbook (README)
+- [ ] Review and complete the logbook (README)
 - [ ] Add links to artifacts / repos / PRs
 - [ ] Write 1–2 sentence summary
